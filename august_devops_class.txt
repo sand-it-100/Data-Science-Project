@@ -1,0 +1,2 @@
+pull -> in the process of push ,we can not extract some part of code. it push all project at once
+push-> changes part only.
